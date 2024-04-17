@@ -1,0 +1,14 @@
+C:\Users\fahad\Desktop\build\release\ExampleAssembly.dll
+C:\Users\fahad\Desktop\build\release\ExampleAssembly.pdb
+C:\Users\fahad\Desktop\jj\Content-Warning-Chair-main\obj\Release\ExampleAssembly.csproj.AssemblyReference.cache
+C:\Users\fahad\Desktop\jj\Content-Warning-Chair-main\obj\Release\ExampleAssembly.csproj.CoreCompileInputs.cache
+C:\Users\fahad\Desktop\jj\Content-Warning-Chair-main\obj\Release\ExampleA.C879C9D8.Up2Date
+C:\Users\fahad\Desktop\jj\Content-Warning-Chair-main\obj\Release\ExampleAssembly.dll
+C:\Users\fahad\Desktop\jj\Content-Warning-Chair-main\obj\Release\ExampleAssembly.pdb
+C:\Users\i3z\Desktop\new'\Content-Warning-Chair-main\obj\Release\ExampleAssembly.csproj.AssemblyReference.cache
+C:\Users\i3z\Desktop\new'\Content-Warning-Chair-main\obj\Release\ExampleAssembly.csproj.CoreCompileInputs.cache
+C:\Users\i3z\Desktop\build\release\ExampleAssembly.dll
+C:\Users\i3z\Desktop\build\release\ExampleAssembly.pdb
+C:\Users\i3z\Desktop\new'\Content-Warning-Chair-main\obj\Release\ExampleA.C879C9D8.Up2Date
+C:\Users\i3z\Desktop\new'\Content-Warning-Chair-main\obj\Release\ExampleAssembly.dll
+C:\Users\i3z\Desktop\new'\Content-Warning-Chair-main\obj\Release\ExampleAssembly.pdb
